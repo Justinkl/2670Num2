@@ -7,4 +7,5 @@
  <element id="6" elementName="testtweens" elementFolder="testtweens" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="7" elementName="minoractions" elementFolder="minoractions" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="8" elementName="body_linetest" elementFolder="body_linetest" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="9" elementName="Drawing_1" elementFolder="Drawing_1.9" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
