@@ -3,8 +3,8 @@
  <element id="1" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="6" elementName="Screen_Shot_2016" elementFolder="Screen_Shot_2016" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
  <element id="7" elementName="Drawing_1" elementFolder="Drawing_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="8" elementName="Drawing_2" elementFolder="Drawing_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="9" elementName="Drawing_3" elementFolder="Drawing_3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="10" elementName="Drawing_4" elementFolder="Drawing_4" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="8" elementName="realistic_roughs" elementFolder="realistic_roughs" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="9" elementName="roughframes" elementFolder="roughframes" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="10" elementName="shapedroughs" elementFolder="shapedroughs" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="11" elementName="best-hand-layer" elementFolder="best-hand-layer" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
